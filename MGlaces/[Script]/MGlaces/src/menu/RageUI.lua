@@ -10,7 +10,7 @@
 ---@public
 
 print("")
-print("^2Crée par : Mojitoo#6666^0")
+print("^2Crée par : Ayko#6666^0")
 print("^3Discord : discord.gg/qRmt3Bz2qW")
 print("")
 
