@@ -116,5 +116,5 @@ Citizen.CreateThread(function()
         SetEntityInvincible(ped, true) -- Le rend invincible 
     end)
 
------------- BY Mojitoo ------------    
+------------ BY Ayko#6666 ------------    
 
